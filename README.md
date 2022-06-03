@@ -1,0 +1,2 @@
+# AWS-CDK-DEMO
+Since i haven't used a Credit Card for this it is vital to keep in mind that AWS services are regardless of being free-tier to some extent require a credit card but regardless i tried to create this project in hopes of understanding the main concept of using AWS-CDK but again in development principles things are better to be practiced fully so i have made this repo as a demo on how much i have understood AWS DevOps.
